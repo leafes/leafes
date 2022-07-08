@@ -1,5 +1,6 @@
-### Hi there 👋
-
+frontend, and newborn open-source enthusiast \
+\
+![codewars badge](https://www.codewars.com/users/xmmGeek/badges/micro)
 <!--
 **leafes/leafes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
