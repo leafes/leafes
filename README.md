@@ -1,7 +1,15 @@
-frontend, and newborn open-source enthusiast \
+<!-- ###   Contact me
+Email: leafes@ya.ru \
+LinkedIn: [Vladimir K.](https://www.linkedin.com/in/vladimir-k-687604214/) \
 \
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leafes&theme=nord&show_icons=true&hide_border=true)
+
+![](https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&logo=javascript&logoColor=88c0d0)
+![](https://img.shields.io/badge/React-2e3440?style=for-the-badge&logo=vue&logoColor=88c0d0)
 ![codewars badge](https://www.codewars.com/users/xmmGeek/badges/micro)
-<!--
+
+
+
 **leafes/leafes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
