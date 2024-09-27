@@ -1,4 +1,4 @@
-# QA Engineer / Auto, JS, TS, Performance / Web oriented 
+# Fullstack QA Engineer / (Playwright, k6, TypeScript, Web)
 ![https://www.codewars.com/users/xmmGeek](https://www.codewars.com/users/xmmGeek/badges/micro)
 
 personal profile 
